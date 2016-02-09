@@ -1,0 +1,9 @@
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\bin\Debug\Thumbnail.exe.config
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\obj\Debug\Thumbnail.csprojResolveAssemblyReference.cache
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\obj\Debug\Thumbnail.Form1.resources
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\obj\Debug\Thumbnail.Properties.Resources.resources
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\obj\Debug\Thumbnail.csproj.GenerateResource.Cache
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\bin\Debug\Thumbnail.exe
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\bin\Debug\Thumbnail.pdb
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\obj\Debug\Thumbnail.exe
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\s\Thumbnail\Thumbnail\obj\Debug\Thumbnail.pdb
